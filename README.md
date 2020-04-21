@@ -8,3 +8,4 @@
 - Full-text input-oriented.
 - Error handling with try/catch statements.
 - Use of an array of objects (Nim player class).
+- AI player functionability.
